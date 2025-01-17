@@ -50,7 +50,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col items-center gap-6 min-h-screen p-8">
-      <h1 className="text-2xl font-bold">Pixel Race</h1>
+      <h1 className="text-2xl font-bold">Pixel Race 🏇🐎🏎️</h1>
       <div
         ref={containerRef} // Attach ref to the container
         className="relative w-full h-40 border border-gray-300 bg-gray-100 overflow-hidden"
